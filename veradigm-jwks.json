@@ -3,9 +3,8 @@
     {
       "kty": "RSA",
       "use": "sig",
-      "alg": "RS256",
       "kid": "mihin-veradigm-1",
-      "key_ops": ["verify"],
+      "alg": "RS256",
       "n": "lOR6OLBtGebBHpDYfUGa9JWj6tvrY4W09IcWLv1papv0Q7zROeHbLhiVj0eog_UJEQyaq2nEMktFM19ucbOzP6iS8A0HJV5Mew9T5sVvbwyd1oeYepXzkcAh_00ivsodZaCEwX7i7UhhUsK1m_Z8HmiCsxU6vUmHu3VTnff6-srJt4d7hJBQCLuS855Ouj3e5ogmMf2hOWj8wC70-dJvc8Xm7elnok9DSL4ysOeCD8OQvgPH7MrNL4Z9b-fW0-miXFWMAVdylaToUd4xA_JO3_PMjkfQ7j3jIWEb3muOAz-PBFqgw69HSvpyAsLKiUpYJZaqV-9juJ7PccqC5JwdlQ",
       "e": "AQAB"
     }
